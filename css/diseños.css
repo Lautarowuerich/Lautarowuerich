@@ -57,7 +57,7 @@ header {
   }
 }
 
-@media only screen and (max-width: 411px) {
+@media only screen and (max-width: 673px) {
   .navbar .container-fluid {
     margin-top: 50px;
   }
